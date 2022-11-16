@@ -1,0 +1,21 @@
+.btn-success{margin-right: 5px;}
+.my-4{
+	margin-left: 12px;
+	margin-right: 12px;
+}
+.delete-checkbox{
+	position: absolute;
+	left: 5px;
+	top: 5px;
+}
+.card.text-center .card-body{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.products{
+	display: flex;
+	flex-wrap: wrap;
+	gap: 30px;
+}
